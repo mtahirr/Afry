@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251457148795",
+    "project_id": "afry-master",
+    "storage_bucket": "afry-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251457148795:android:00dca93ca6db2d26098fde",
+        "android_client_info": {
+          "package_name": "com.pits.afry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251457148795-2rdg7smk39hod40gkhb9jk36jc587nee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJb8NC6OfZQs3s2190soZTERHHF8siGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251457148795-2rdg7smk39hod40gkhb9jk36jc587nee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
